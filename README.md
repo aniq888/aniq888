@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Trending GIF](https://media.giphy.com/media/3o7btPCcdN2n5a0v5K/giphy.gif)
 <!--
 **aniq888/aniq888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
