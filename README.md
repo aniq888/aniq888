@@ -1,5 +1,5 @@
 # Hola, I'm Aniq Noor
-Full-Stack AI Engineer & Mobile/Frontend Developer | FAST-NUCES Islamabad Graduate (3.04 CGPA)
+Full-Stack AI Engineer & Mobile/Frontend Developer | FAST-NUCES Islamabad Graduate (3.1 CGPA)
 
 ---
 
